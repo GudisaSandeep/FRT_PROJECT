@@ -1,0 +1,9 @@
+flask
+os
+azure-ai-textanalytics
+azure-cognitiveservices
+azure-core-credentials
+azure-cognitiveservices-speech
+azure-core-exception
+requests
+bs4
