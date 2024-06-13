@@ -61,7 +61,7 @@ BING_SEARCH_API_KEY=your_key_here
 flask run main.py
 ```
 ### 6.Demo Video
-Visit <http://example.com](https://youtu.be/4gDo3I_FTG8?si=QV80MyGA2Cp2UHAa>
+Visit <https://youtu.be/4gDo3I_FTG8?si=QV80MyGA2Cp2UHAa>
 
 
 
